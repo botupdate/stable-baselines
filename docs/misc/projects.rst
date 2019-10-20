@@ -147,3 +147,12 @@ then exported to tensorflowjs to run directly on the browser
 | Author: Pedro Torres (@pedrohbtp)
 | Repository: https://github.com/pedrohbtp/snake-rl
 | Website: https://www.pedro-torres.com/snake-rl/
+
+
+Pwnagotchi
+--------------------------
+Pwnagotchi is an A2C-based “AI” powered by bettercap and running on a Raspberry Pi Zero W that learns from its surrounding WiFi environment in order to maximize the crackable WPA key material it captures (either through passive sniffing or by performing deauthentication and association attacks). This material is collected on disk as PCAP files containing any form of handshake supported by hashcat, including full and half WPA handshakes as well as PMKIDs.
+
+| Author: Simone Margaritelli (@evilsocket)
+| Repository: https://github.com/evilsocket/pwnagotchi
+| Website: https://pwnagotchi.ai/
