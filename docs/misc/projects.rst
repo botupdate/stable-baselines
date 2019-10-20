@@ -156,3 +156,15 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap and running on a Raspbe
 | Author: Simone Margaritelli (@evilsocket)
 | Repository: https://github.com/evilsocket/pwnagotchi
 | Website: https://pwnagotchi.ai/
+
+
+Quantized Reinforcement Learning (QuaRL)
+----------------------------------------
+
+QuaRL is a open-source framework to study the effects of quantization broad spectrum of reinforcement learning algorithms. The RL algorithms we used in
+this study are from stable-baselines.
+
+| Author: Srivatsan Krishnan, Sharad Chitlangia, Maximilian Lam, Zishen Wan, Aleksandra Faust, Vijay Janapa Reddi
+| Email: srivatsan@seas.harvard.edu
+| Github: https://github.com/harvard-edge/quarl
+| Paper: https://arxiv.org/pdf/1910.01055.pdf
