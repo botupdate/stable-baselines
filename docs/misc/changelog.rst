@@ -38,6 +38,7 @@ Documentation:
 - Add note on the support Tensorflow versions.
 - Remove unnecessary steps required for Windows installation.
 - Add QuaRL project (@srivatsankrishnan)
+- Add Pwnagotchi project (@evilsocket)
 
 Release 2.8.0 (2019-09-29)
 --------------------------
